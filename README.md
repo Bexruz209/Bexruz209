@@ -4,6 +4,9 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <img  style="border-radius: 20px;" align="center" src="https://avatars.githubusercontent.com/Bexruz209" width=200 />
+  <a href="https://www.instagram.com/_bexa_maladoy_/">
+    <img src="https://pngate.com/wp-content/uploads/2023/09/Instagram-logo-sign-colored.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  </a>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
