@@ -3,10 +3,10 @@
     Hey, I'm @Bexruz209
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <img  style="border-radius: 20px;" align="center" src="https://avatars.githubusercontent.com/Bexruz209" width=200 margin-botton=20px/>
+  <img  style="border-radius: 20px;" align="center" src="https://avatars.githubusercontent.com/Bexruz209" width=200/>
 </div>
-<div id="header" align="center">
-  <a href="https://www.instagram.com/_bexa_maladoy_/">
+<div id="header" align="center" margin-top="10px">
+  <a href="https://www.instagram.com/_bexa_maladoy_/?next=%2F">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   </a>
    <a href="Bexa_Maladoy">
