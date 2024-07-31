@@ -6,7 +6,7 @@
   <img  style="border-radius: 20px;" align="center" src="https://avatars.githubusercontent.com/Bexruz209" width=200 />
 </div>
   <a href="https://www.instagram.com/_bexa_maladoy_/">
-    <img src="https://pngate.com/wp-content/uploads/2023/09/Instagram-logo-sign-colored.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   </a>
 
 ### :hammer_and_wrench: Languages and Tools :
