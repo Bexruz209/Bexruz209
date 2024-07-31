@@ -5,9 +5,14 @@
   </h1>
   <img  style="border-radius: 20px;" align="center" src="https://avatars.githubusercontent.com/Bexruz209" width=200 />
 </div>
+<div id="header" align="center">
   <a href="https://www.instagram.com/_bexa_maladoy_/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   </a>
+   <a href="Bexa_Maladoy">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/640px-Telegram_2019_Logo.svg.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  </a>
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
