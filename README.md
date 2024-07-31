@@ -1,6 +1,6 @@
 <div id="header" align="center">
    <h1>
-    Hey, I'm Bexruz209
+    Hey, I'm @Bexruz209
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <img  style="border-radius: 20px;" align="center" src="https://avatars.githubusercontent.com/Bexruz209" width=200 margin-botton=20px/>
@@ -14,6 +14,11 @@
   </a>
 </div>
 
+
+---
+
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="Html" alt="Html" width="40" height="40">
@@ -22,6 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/reactnavigation/reactnavigation-original.svg" title="ReactVite" alt="ReactVite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/reactbootstrap/reactbootstrap-original.svg" title="ReactBootstrap" alt="ReactBootstrap" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJs" alt="NodeJs" width="40" height="40"/>&nbsp;
 </div>
